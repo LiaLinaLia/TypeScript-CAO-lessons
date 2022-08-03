@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable no-lone-blocks */
 /*
 TypeScript'e galioja tie patys primityvūs duomenų tipai kaip ir JavaScript'e:
   * string - simbolių darinys
